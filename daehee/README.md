@@ -9,3 +9,5 @@
 | 2023. 6. 14. | BJ1205.py  | https://www.acmicpc.net/problem/1205  |
 | 2023. 6. 14. | BJ1244.py  | https://www.acmicpc.net/problem/1244  |
 | 2023. 6. 16. | BJ11052.py | https://www.acmicpc.net/problem/11052 |
+| 2023. 6. 19. | BJ11052.py | https://www.acmicpc.net/problem/1213  |
+| 2023. 6. 19. | BJ11052.py | https://www.acmicpc.net/problem/2422  |
