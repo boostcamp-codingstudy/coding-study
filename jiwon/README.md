@@ -18,3 +18,4 @@
 |백준|[1213](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_1213.py)|[😊 팰린드롬 만들기](https://www.acmicpc.net/problem/1213)|dq를 활용한 문제 풀이 / pointer 활용해도 괜찮을 듯|
 |백준|[2422](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_2422.py)|[😊 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)|표를 작성하여 문제를 해결하는 브루트포스 문제|
 |백준|[1049](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_1049.py)|[😊 기타줄](https://www.acmicpc.net/problem/1049)|단순 구현 문제|
+|백준|[4963](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_4963.py)|[😥 섬의 개수](https://www.acmicpc.net/problem/4963)|BFS 문제 / 풀이 참고함|
