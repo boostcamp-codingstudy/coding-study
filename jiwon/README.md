@@ -4,7 +4,6 @@
 
 </br>
 </br>
-</br>  
   
 |From|Number|Problem|Description|
 |---|:---:|:---|:---|
@@ -19,3 +18,5 @@
 |백준|[2422](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_2422.py)|[😊 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)|표를 작성하여 문제를 해결하는 브루트포스 문제|
 |백준|[1049](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_1049.py)|[😊 기타줄](https://www.acmicpc.net/problem/1049)|단순 구현 문제|
 |백준|[4963](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_4963.py)|[😥 섬의 개수](https://www.acmicpc.net/problem/4963)|BFS 문제 / 풀이 참고함|
+|백준|[1337](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_1337.py)|[😊 올바른 배열](https://www.acmicpc.net/problem/1337)|단순 set 문제|
+|백준|[1965](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_1965.py)|[😥 상자넣기](https://www.acmicpc.net/problem/1965)|포인트 + dp 방식 / 이전까지 보다 지금이 더 큰지 확인|
