@@ -1,3 +1,6 @@
+'''
+
+'''
 A=*map(int,open(0).read().split()),
 N,A,M=A[0],sorted(A[1:]),0
 for i in range(N):

@@ -15,3 +15,5 @@
 | 2023. 6. 21. | BJ1049.py  | https://www.acmicpc.net/problem/1049  |
 | 2023. 7. 3.  | BJ1337.py  | https://www.acmicpc.net/problem/1337  |
 | 2023. 7. 3.  | BJ1965.py  | https://www.acmicpc.net/problem/1965  |
+| 2023. 7. 5.  | BJ2910.py  | https://www.acmicpc.net/problem/2910  |
+| 2023. 7. 5.  | BJ4659.py  | https://www.acmicpc.net/problem/4659  |
