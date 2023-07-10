@@ -1,6 +1,6 @@
 # https://www.acmicpc.net/problem/4659
 # 비밀번호 발음하기
-# 정규식 활용 / 아이디어 활용
+# 정규식 아이디어 활용
 
 import sys
 import re

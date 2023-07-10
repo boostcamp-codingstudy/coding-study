@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/2910
 # 빈도 정렬
+# Counter 활용 문제
 
 import sys
 from collections import Counter
