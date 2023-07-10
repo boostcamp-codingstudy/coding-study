@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/2885
 # 초콜릿 식사
+# 이진변환 후 제곱수 분류를 활용한 문제
 
 import sys
 

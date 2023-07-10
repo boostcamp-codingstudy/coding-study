@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/1969
 # DNA
+# 단순 Counter + 정렬 문제
 
 import sys
 from collections import Counter
