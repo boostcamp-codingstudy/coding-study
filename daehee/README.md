@@ -20,3 +20,5 @@
 | 2023. 7. 6.  | 150367.py  | https://school.programmers.co.kr/learn/courses/30/lessons/150367 |
 | 2023. 7. 10. | BJ1969.py  | https://www.acmicpc.net/problem/1969                             |
 | 2023. 7. 10. | BJ2885.py  | https://www.acmicpc.net/problem/2885                             |
+| 2023. 7. 12. | BJ1120.py  | https://www.acmicpc.net/problem/1120                             |
+| 2023. 7. 12. | BJ12891.py | https://www.acmicpc.net/problem/12891                            |
