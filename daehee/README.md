@@ -22,3 +22,6 @@
 | 2023. 7. 10. | BJ2885.py  | https://www.acmicpc.net/problem/2885                             |
 | 2023. 7. 12. | BJ1120.py  | https://www.acmicpc.net/problem/1120                             |
 | 2023. 7. 12. | BJ12891.py | https://www.acmicpc.net/problem/12891                            |
+| 2023. 7. 14. | BJ1918.py  | https://www.acmicpc.net/problem/1918                             |
+| 2023. 7. 17. | BJ1918.py  | https://www.acmicpc.net/problem/1080                             |
+| 2023. 7. 17. | BJ1918.py  | https://www.acmicpc.net/problem/1052                             |
