@@ -4,6 +4,7 @@ for i in range(n):
     for j in range(m):
         c[i][j]=int(a[i][j])^int(b[i][j])
         d+=c[i][j]
+del A
 if n<3 or m<3:print(-1 if d else 0)
 else:
     T=0
