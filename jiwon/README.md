@@ -20,3 +20,8 @@
 |백준|[4963](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_4963.py)|[😥 섬의 개수](https://www.acmicpc.net/problem/4963)|BFS 문제 / 풀이 참고함|
 |백준|[1337](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_1337.py)|[😊 올바른 배열](https://www.acmicpc.net/problem/1337)|단순 set 문제|
 |백준|[1965](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_1965.py)|[😥 상자넣기](https://www.acmicpc.net/problem/1965)|포인트 + dp 방식 / 이전까지 보다 지금이 더 큰지 확인|
+|백준|[2910](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_2910.py)|[😊 빈도 정렬](https://www.acmicpc.net/problem/2910)|단Counter 활용 문제|
+|백준|[4659](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_4659.py)|[😥 비밀번호 발음하기](https://www.acmicpc.net/problem/4659)|정규식 아이디어 활용|
+|프로그래머스|[150367](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/prog_150367.py)|[😥 표현 가능한 이진트리 배열](https://school.programmers.co.kr/learn/courses/30/lessons/150367)|포화 이진트리의 구조를 이해해야 하는 내용|
+|백준|[1969](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_1969.py)|[😊 DNA](https://www.acmicpc.net/problem/1969)|단순 Counter + 정렬 문제|
+|백준|[2885](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_2885.py)|[😊 초콜릿 식사](https://www.acmicpc.net/problem/2885)|이진변환 후 제곱수 분류를 활용한 문제|
