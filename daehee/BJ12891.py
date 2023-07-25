@@ -9,7 +9,7 @@ for i in range(n-p+1):
         for i in range(p):D[s[i]]+=1
     d,e=list(D.values()),0
     for j in range(4):
-        if d[j] < r[j]:e=1;break
+        if d[j]<r[j]:e=1;break
     if e==0:N+=1
 print(N)
 
