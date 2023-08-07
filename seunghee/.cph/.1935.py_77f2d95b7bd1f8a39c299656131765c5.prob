@@ -1,0 +1,1 @@
+{"name":"Local: 1935","url":"/Users/seunghee/coding-study/seunghee/1935.py","tests":[{"id":1691414214783,"input":"5\nABC*+DE/-\n1\n2\n3\n4\n5","output":"6.20"},{"id":1691414958133,"input":"1\nAA+A+\n1","output":"3.00"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/seunghee/coding-study/seunghee/1935.py","group":"local","local":true}
