@@ -38,3 +38,5 @@
 |23.07.24|백준|[1051](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_1051.py)|[😥 숫자 정사각형](https://www.acmicpc.net/problem/1051)|하나씩 좌표를 찾아가며 확인하는 브루트포스 문제|
 |23.07.26|백준|[17413](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_17413.py)|[😊 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)|단순 문자열 문제, 하나씩 확인해나가며 조건 확인, deque 사용시 시간이 대폭 감소|
 |23.07.26|백준|[2346](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_2346.py)|[😊 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)|원형큐를 활용한 문제 풀이 : dq.rotate()|
+|23.08.07|백준|[1935](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_1935.py)|[😊 후위 표기식 2](https://www.acmicpc.net/problem/1935)|스택을 활용한 후위식 문제풀이|
+|23.08.07|백준|[17087](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_17087.py)|[😊 숨바꼭질 6](https://www.acmicpc.net/problem/17087)|최대공약수 문제, 유클리드 호제법|
