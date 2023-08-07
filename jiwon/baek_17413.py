@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/17413
 # 단어 뒤집기 2
+# 단순 문자열 문제, 하나씩 확인해나가며 조건 확인, deque 사용시 시간이 대폭 감소
 
 import sys
 from collections import deque

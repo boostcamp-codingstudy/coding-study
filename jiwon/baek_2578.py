@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/2578
 # 빙고
+# 그리디 알고리즘 / 하나씩 값을 바꾸며 원하는 조건이 나올때까지 진행
 
 import sys
 

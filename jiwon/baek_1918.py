@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/1918
 # 후위 표기식
+# 우선순위를 따지며 스택으로 풀이하는 문제
 
 import sys
 
