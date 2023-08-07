@@ -11,3 +11,8 @@ print(math.gcd(*B))
 # N,S=A[0:2];A=A[2:];B=S-A[0]
 # for e in A:B=math.gcd(abs(S-e),B)
 # print(B)
+
+# def gcd(a,b):
+#     l,s=[a,b] if a>b else [b,a]
+#     while s:l,s=s,l%s
+#     return l
