@@ -40,3 +40,5 @@
 |23.07.26|백준|[2346](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_2346.py)|[😊 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)|원형큐를 활용한 문제 풀이 : dq.rotate()|
 |23.08.07|백준|[1935](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_1935.py)|[😊 후위 표기식 2](https://www.acmicpc.net/problem/1935)|스택을 활용한 후위식 문제풀이|
 |23.08.07|백준|[17087](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_17087.py)|[😊 숨바꼭질 6](https://www.acmicpc.net/problem/17087)|최대공약수 문제, 유클리드 호제법|
+|23.08.09|백준|[28438](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_28438.py)|[😊 행렬 연산 (행렬 계산하기)](https://www.acmicpc.net/problem/28438)|단순 구현 문제, 시간초과 고려하여 문제 풀기|
+|23.08.09|백준|[27649](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/baek_27649.py)|[😊 토크나이저](https://www.acmicpc.net/problem/27649)|문자열 replace + split/join|
