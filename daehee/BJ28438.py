@@ -12,14 +12,23 @@
 #             B[i][c]+=v
 # for b in B:print(*b)
 
-# faster solution
+# # faster solution
+# *A,=map(int,open(0).read().split())
+# n,m,q=A[0:3];A,R,C=A[3:],[0]*n,[0]*m
+# for k in range(q):
+#     t=3*k;i,u,v=A[t:t+3]
+#     if i%2:R[u-1]+=v
+#     else:C[u-1]+=v
+# for r in R:
+#     for c in C:
+#         print(r+c,end=' ')
+#     print()
+
+# faster and shorter solution
 *A,=map(int,open(0).read().split())
-n,m,q=A[0:3];A,B=A[3:],[[0]*n,[0]*m]
+n,m,q=A[0:3];A,R,C=A[3:],[0]*n,[0]*m
 for k in range(q):
-    t=3*k;a,u,v=A[t:t+3]
-    if a==1:B[0][u-1]+=v
-    elif a==2:B[1][u-1]+=v
-for r in B[0]:
-    for c in B[1]:
-        print(r+c,end=' ')
-    print()
+    t=3*k;i,u,v=A[t:t+3]
+    if i%2:R[u-1]+=v
+    else:C[u-1]+=v
+for r in R:print(*[r+c for c in C])
