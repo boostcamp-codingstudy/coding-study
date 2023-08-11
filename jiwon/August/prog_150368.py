@@ -1,6 +1,6 @@
 # https://school.programmers.co.kr/learn/courses/30/lessons/150368
 # 코딩테스트 연습 / 2023 KAKAO BLIND RECRUITMENT / 이모티콘 할인행사
-# 일일이 케이스
+# 브루트포스 문제 / 할인율 케이스를 만드는데 어려웠음 / 이외에는 일반 구현문제
 
 from collections import deque
 
