@@ -16,5 +16,5 @@ TCs = [
     ((7, 3, [4, 2, 4, 5, 3, 3, 1]), (5)), 
     ((2, 4, [3, 3, 3, 3]), (4))
 ]
-for i, (input, output) in enumerate(TCs):
-    assert solution(*input) == output, f'TC#{i}incorrect\ninput:{input}\noutput:{output}'
+for i, (input_, output) in enumerate(TCs):
+    assert solution(*input_) == output, f'The result differs from TC#{i}\ninput:{input_}\noutput:{output}'

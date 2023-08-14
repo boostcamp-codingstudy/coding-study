@@ -38,5 +38,5 @@ TCs = [
     (([[40, 10000], [25, 10000]], [7000, 9000]), ([1, 5400])), 
     (([[40, 2900], [23, 10000], [11, 5200], [5, 5900], [40, 3100], [27, 9200], [32, 6900]], [1300, 1500, 1600, 4900]), ([4, 13860]))
 ]
-for i, (input, output) in enumerate(TCs):
-    assert solution(*input) == output, f'TC#{i}incorrect\ninput:{input}\noutput:{output}'
+for i, (input_, output) in enumerate(TCs):
+    assert solution(*input_) == output, f'The result differs from TC#{i}\ninput:{input_}\noutput:{output}'
