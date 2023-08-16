@@ -32,3 +32,11 @@
 | 2023. 7. 24. | BJ1051.py  | https://www.acmicpc.net/problem/1051                             |
 | 2023. 7. 26. | BJ17413.py | https://www.acmicpc.net/problem/17413                            |
 | 2023. 7. 26. | BJ2346.py  | https://www.acmicpc.net/problem/2346                             |
+| 2023. 8. 7.  | BJ1935.py  | https://www.acmicpc.net/problem/1935                             |
+| 2023. 8. 7.  | BJ17087.py | https://www.acmicpc.net/problem/17087                            |
+| 2023. 8. 9.  | BJ27649.py | https://www.acmicpc.net/problem/27649                            |
+| 2023. 8. 9.  | BJ28438.py | https://www.acmicpc.net/problem/28438                            |
+| 2023. 8. 11. | 142085.py  | https://school.programmers.co.kr/learn/courses/30/lessons/142085 |
+| 2023. 8. 11. | 150368.py  | https://school.programmers.co.kr/learn/courses/30/lessons/150368 |
+| 2023. 8. 14. | BJ1057.py  | https://www.acmicpc.net/problem/1057                             |
+| 2023. 8. 14. | BJ2034.py  | https://www.acmicpc.net/problem/2034                             |

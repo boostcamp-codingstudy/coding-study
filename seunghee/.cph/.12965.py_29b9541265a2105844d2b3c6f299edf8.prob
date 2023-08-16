@@ -1,0 +1,1 @@
+{"name":"Local: 12965","url":"/Users/seunghee/coding-study/seunghee/12965.py","tests":[{"id":1689898090719,"input":"4 7\n6 13\n4 8\n3 6\n5 12","output":"14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/seunghee/coding-study/seunghee/12965.py","group":"local","local":true}
