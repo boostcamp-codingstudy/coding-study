@@ -48,3 +48,4 @@
 |23.08.14|백준|[1057](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/August/baek_1057.py)|[😊 토너먼트](https://www.acmicpc.net/problem/1057)|이진수 활용 문제, 나머지 연산을 사용한 조건 구현 문제|
 |23.08.16|백준|[2090](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/August/baek_2090.py)|[😊 조화 평균](https://www.acmicpc.net/problem/2090)|유클리드 호제법, gcd 문제|
 |23.08.16|프로그래머스|[131127](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/August/prog_131127.py)|[😊 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|Counter를 활용한 원소 개수 계산 문제|
+|23.08.18|백준|[12764](https://github.com/boostcamp-codingstudy/coding-study/blob/main/jiwon/August/baek_12764.py)|[😊 싸지방에 간 준하](https://www.acmicpc.net/problem/12764)|우선순위 큐를 활용한 문제|

@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/12764
 # 싸지방에 간 준하
+# 우선순위 큐를 활용한 문제
 
 import sys
 from heapq import heappush, heappop
