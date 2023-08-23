@@ -1,0 +1,1 @@
+{"name":"Local: BJ1927","url":"d:\\study\\boostcamp\\coding-study\\daehee\\solo-play\\BJ1927.py","tests":[{"id":1692706510900,"input":"9\n0\n12345678\n1\n2\n0\n0\n0\n0\n32","output":"0\n1\n2\n12345678\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\study\\boostcamp\\coding-study\\daehee\\solo-play\\BJ1927.py","group":"local","local":true}
