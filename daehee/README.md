@@ -46,4 +46,4 @@
 | 2023. 8. 21. | BJ1639.py  | https://www.acmicpc.net/problem/1639                             | brute force                                     |                                     |
 | 2023. 8. 21. | BJ1448.py  | https://www.acmicpc.net/problem/1448                             | mathematics(?), greedy, sorting                 |                                     |
 | 2023. 8. 23. | BJ28419.py | https://www.acmicpc.net/problem/28419                            | mathematics(?), ad-hoc                          |                                     |
-| 2023. 8. 23. | BJ29198.py | https://www.acmicpc.net/problem/29198                            | string, greedy, sorting                         | subtask not completed               |
+| 2023. 8. 23. | BJ29198.py | https://www.acmicpc.net/problem/29198                            | string, greedy, sorting                         |                                     |
