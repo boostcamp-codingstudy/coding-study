@@ -47,3 +47,7 @@
 | 2023. 8. 21. | BJ1448.py  | https://www.acmicpc.net/problem/1448                             | mathematics(?), greedy, sorting                 |                                     |
 | 2023. 8. 23. | BJ28419.py | https://www.acmicpc.net/problem/28419                            | mathematics(?), ad-hoc                          |                                     |
 | 2023. 8. 23. | BJ29198.py | https://www.acmicpc.net/problem/29198                            | string, greedy, sorting                         |                                     |
+| 2023. 8. 25. | BJ13904.py | https://www.acmicpc.net/problem/13904                            | greedy, sorting, priority queue                 | not solved                          |
+| 2023. 8. 25. | 1843.py    | https://school.programmers.co.kr/learn/courses/30/lessons/1843   |                                                 | not solved                          |
+| 2023. 8. 28. | BJ5766.py  | https://www.acmicpc.net/problem/5766                             |                                                 |                                     |
+| 2023. 8. 28. | BJ15886.py | https://www.acmicpc.net/problem/15886                            | graph theory, string                            |                                     |
