@@ -53,3 +53,4 @@
 | 2023. 8. 28. | BJ15886.py | https://www.acmicpc.net/problem/15886                            | graph theory, string                            |                                     |
 | 2023. 8. 30. | BJ1980.py  | https://www.acmicpc.net/problem/1980                             | mathematics(?), brute force                     |                                     |
 | 2023. 8. 30. | BJ2485.py  | https://www.acmicpc.net/problem/2485                             | mathematics(number theory), euclidean           |                                     |
+| 2023. 9. 1.  | 81302.py   | https://school.programmers.co.kr/learn/courses/30/lessons/81302  |                                                 |                                     |
