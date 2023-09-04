@@ -1,5 +1,5 @@
 def solution(places):
-    A=[1]*5;D=[[r,c]for r in range(3) for c in range(-2,3)if abs(r)+abs(c)<3 and (r,c)]
+    A=[1]*5;D=[[r,c]for r in range(3)for c in range(-2,3)if abs(r)+abs(c)<3 and(r or c)]
     for k,P in enumerate(places):
         M=[[0]*5 for _ in range(5)];f=0
         for i in range(5):
@@ -25,12 +25,23 @@ def solution(places):
     return A
 
 # checking answers
-TCs = [
-        ([["POOOP", "OXXOX", "OPXPX", "OOXOX", "POXXP"], 
-          ["POOPX", "OXPXP", "PXXXO", "OXXXO", "OOOPP"], 
-          ["PXOPX", "OXOXP", "OXPOX", "OXXOP", "PXPOX"], 
-          ["OOOXX", "XOOOX", "OOOXX", "OXOOX", "OOOOO"], 
-          ["PXPXP", "XPXPX", "PXPXP", "XPXPX", "PXPXP"]], [1, 0, 1, 1, 1])
-    ]
+TCs =   [
+            (
+                [
+                    ["POOOP", "OXXOX", "OPXPX", "OOXOX", "POXXP"], 
+                    ["POOPX", "OXPXP", "PXXXO", "OXXXO", "OOOPP"], 
+                    ["PXOPX", "OXOXP", "OXPOX", "OXXOP", "PXPOX"], 
+                    ["OOOXX", "XOOOX", "OOOXX", "OXOOX", "OOOOO"], 
+                    ["PXPXP", "XPXPX", "PXPXP", "XPXPX", "PXPXP"]
+                ], 
+                [
+                    1, 
+                    0, 
+                    1, 
+                    1, 
+                    1
+                ]
+            )
+        ]
 for i, (input_, output) in enumerate(TCs):
     assert solution(input_) == output, f'The result differs from TC#{i}\ninput:{input_}\noutput:{output}'
