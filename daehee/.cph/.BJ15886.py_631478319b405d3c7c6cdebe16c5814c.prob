@@ -1,0 +1,1 @@
+{"name":"Local: BJ15886","url":"d:\\study\\boostcamp\\coding-study\\daehee\\BJ15886.py","tests":[{"id":1693195763472,"input":"6\nEEWWEW","output":"2"},{"id":1693195767551,"input":"5\nEEEEW","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\study\\boostcamp\\coding-study\\daehee\\BJ15886.py","group":"local","local":true}

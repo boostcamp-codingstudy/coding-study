@@ -47,3 +47,12 @@
 | 2023. 8. 21. | BJ1448.py  | https://www.acmicpc.net/problem/1448                             | mathematics(?), greedy, sorting                 |                                     |
 | 2023. 8. 23. | BJ28419.py | https://www.acmicpc.net/problem/28419                            | mathematics(?), ad-hoc                          |                                     |
 | 2023. 8. 23. | BJ29198.py | https://www.acmicpc.net/problem/29198                            | string, greedy, sorting                         |                                     |
+| 2023. 8. 25. | BJ13904.py | https://www.acmicpc.net/problem/13904                            | greedy, sorting, priority queue                 | not solved                          |
+| 2023. 8. 25. | 1843.py    | https://school.programmers.co.kr/learn/courses/30/lessons/1843   |                                                 | not solved                          |
+| 2023. 8. 28. | BJ5766.py  | https://www.acmicpc.net/problem/5766                             |                                                 |                                     |
+| 2023. 8. 28. | BJ15886.py | https://www.acmicpc.net/problem/15886                            | graph theory, string                            |                                     |
+| 2023. 8. 30. | BJ1980.py  | https://www.acmicpc.net/problem/1980                             | mathematics(?), brute force                     |                                     |
+| 2023. 8. 30. | BJ2485.py  | https://www.acmicpc.net/problem/2485                             | mathematics(number theory), euclidean           |                                     |
+| 2023. 9. 1.  | 81302.py   | https://school.programmers.co.kr/learn/courses/30/lessons/81302  |                                                 |                                     |
+| 2023. 9. 4.  | BJ17451.py | https://www.acmicpc.net/problem/17451                            | mathematics(?), greedy                          |                                     |
+| 2023. 9. 4.  | BJ13015.py | https://www.acmicpc.net/problem/13015                            |                                                 |                                     |
