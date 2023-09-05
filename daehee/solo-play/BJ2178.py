@@ -1,4 +1,4 @@
-# standard solution - time-out
+# standard solution
 *A,=open(0).read().split()
 m,n=map(int,A[:2]);A=A[2:]
 M=[[0]*n for _ in range(m)]
