@@ -21,7 +21,7 @@
 #     print(n - len(bad))
 # solution()
 
-# # 오답 violating condition of memory limit
+# # 오답 memory limit exceeded
 # import sys
 # input=sys.stdin.readline
 # n,m,D,c=*map(int,input().split()),{},0
@@ -62,14 +62,30 @@
 #                 c+=1
 #     print(c)
 
+# # standard solution 2
+# import sys
+# input=sys.stdin.readline
+# n,m=map(int,input().split())
+# D=[[0]*(n+1) for _ in range(n+1)]
+# if n<3:print(0)
+# else:
+#     for _ in range(m):
+#         k,v=map(int,input().split())
+#         D[k][v]=1;D[v][k]=1
+#     c=0
+#     for i in range(1,n+1):
+#         for j in range(i+1,n+1):
+#             for k in range(j+1,n+1):
+#                 if D[i][j]or D[j][k]or D[k][i]:continue
+#                 c+=1
+#     print(c)
+
 # the best solution
-import sys
-input=sys.stdin.readline
-n,m=map(int,input().split())
-c=n*(n-1)*(n-2)//6
-A=[set()for _ in range(n+1)]
-for _ in range(m):
-    k,v=map(int,input().split())
-    c-=n-2-len(A[k]|A[v])
-    A[k].add(v);A[v].add(k)
+*A,=map(int,open(0).read().split())
+n,m=A[:2];A=A[2:];c=n*(n-1)*(n-2)//6
+B=[set()for _ in range(n+1)]
+for i in range(m):
+    k,v=A[2*i:2*i+2]
+    c-=n-2-len(B[k]|B[v])
+    B[k].add(v);B[v].add(k)
 print(c)

@@ -11,7 +11,7 @@
 | 2023. 6. 16. | BJ11052.py | https://www.acmicpc.net/problem/11052                            | dynamic programming                             |                                     |
 | 2023. 6. 19. | BJ1213.py  | https://www.acmicpc.net/problem/1213                             | string, greedy                                  |                                     |
 | 2023. 6. 19. | BJ2422.py  | https://www.acmicpc.net/problem/2422                             | brute force                                     |                                     |
-| 2023. 6. 21. | BJ4963.py  | https://www.acmicpc.net/problem/4963                             | graph theory/search, BFS/DFS                    | not solved                          |
+| 2023. 6. 21. | BJ4963.py  | https://www.acmicpc.net/problem/4963                             | graph theory/search, BFS/DFS                    |                                     |
 | 2023. 6. 21. | BJ1049.py  | https://www.acmicpc.net/problem/1049                             | mathematics(?), greedy                          | not solved                          |
 | 2023. 7. 3.  | BJ1337.py  | https://www.acmicpc.net/problem/1337                             | sorting, 2-pointer                              |                                     |
 | 2023. 7. 3.  | BJ1965.py  | https://www.acmicpc.net/problem/1965                             | dynamic programming                             |                                     |
