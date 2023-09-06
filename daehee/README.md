@@ -56,3 +56,5 @@
 | 2023. 9. 1.  | 81302.py   | https://school.programmers.co.kr/learn/courses/30/lessons/81302  |                                                 |                                     |
 | 2023. 9. 4.  | BJ17451.py | https://www.acmicpc.net/problem/17451                            | mathematics(?), greedy                          |                                     |
 | 2023. 9. 4.  | BJ13015.py | https://www.acmicpc.net/problem/13015                            |                                                 |                                     |
+| 2023. 9. 6.  | BJ4096.py  | https://www.acmicpc.net/problem/4096                             | string, brute force                             |                                     |
+| 2023. 9. 6.  | BJ2915.py  | https://www.acmicpc.net/problem/2915                             | case work                                       |                                     |
