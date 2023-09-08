@@ -58,3 +58,4 @@
 | 2023. 9. 4.  | BJ13015.py | https://www.acmicpc.net/problem/13015                            |                                                 |                                     |
 | 2023. 9. 6.  | BJ4096.py  | https://www.acmicpc.net/problem/4096                             | string, brute force                             |                                     |
 | 2023. 9. 6.  | BJ2915.py  | https://www.acmicpc.net/problem/2915                             | case work                                       |                                     |
+| 2023. 9. 8.  | BJ1351.py  | https://www.acmicpc.net/problem/1351                             | dynamic programming, set/map by hashing         |                                     |
