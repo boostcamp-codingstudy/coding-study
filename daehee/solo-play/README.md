@@ -18,3 +18,5 @@
 | 2023. 8. 22. | BJ1927.py  | https://www.acmicpc.net/problem/1927                             | priority queue                                  |                                     |
 | 2023. 8. 22. | BJ11279.py | https://www.acmicpc.net/problem/11279                            | priority queue                                  |                                     |
 | 2023. 8. 22. | BJ11286.py | https://www.acmicpc.net/problem/11286                            | priority queue                                  |                                     |
+| 2023. 9. 5.  | BJ2178.py  | https://www.acmicpc.net/problem/2178                             | graph theory/search, BFS                        |                                     |
+| 2023. 9. 5.  | BJ24444.py | https://www.acmicpc.net/problem/24444                            | graph theory/search, sorting, BFS               |                                     |
