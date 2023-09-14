@@ -19,6 +19,6 @@
 # print(c)
 
 # the best solution
-n,*a=map(int,open(r:=0).read().split());d=[0]*30
-for s in range(n):t,p=a[2*s:2*s+2];d[s+t]=max(d[s+t],r+p);r=max(r,d[s+1])
+n,*A=map(int,open(r:=0).read().split());D=[0]*30
+for s in range(n):t,p=A[2*s:2*s+2];D[s+t]=max(D[s+t],r+p);r=max(r,D[s+1])
 print(r)
