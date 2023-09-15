@@ -61,3 +61,16 @@
 | 2023. 9. 8.  | BJ1351.py  | https://www.acmicpc.net/problem/1351                             | dynamic programming, set/map by hashing                     |                                     |
 | 2023. 9. 11. | BJ1359.py  | https://www.acmicpc.net/problem/1359                             | mathematics(Combinatorics, Probability Theory), brute force |                                     |
 | 2023. 9. 11. | BJ1812.py  | https://www.acmicpc.net/problem/1812                             | mathematics(?), brute force                                 |                                     |
+| 2023. 9. 13. | BJ14501.py | https://www.acmicpc.net/problem/14501                            | dynamic programming, brute force                            |                                     |
+| 2023. 9. 13. | 12913.py   | https://school.programmers.co.kr/learn/courses/30/lessons/12913  |                                                             |                                     |
+| 2023. 9. 15. | BJ    .py  |                                                                  |                                                             |                                     |
+| 2023. 9. 18. | BJ    .py  |                                                                  |                                                             |                                     |
+| 2023. 9. 18. | BJ    .py  |                                                                  |                                                             |                                     |
+| 2023. 9. 20. | BJ    .py  |                                                                  |                                                             |                                     |
+| 2023. 9. 20. | BJ    .py  |                                                                  |                                                             |                                     |
+| 2023. 9. 22. | BJ    .py  |                                                                  |                                                             |                                     |
+| 2023. 9. 25. | BJ    .py  |                                                                  |                                                             |                                     |
+| 2023. 9. 25. | BJ    .py  |                                                                  |                                                             |                                     |
+| 2023. 9. 27. | BJ    .py  |                                                                  |                                                             |                                     |
+| 2023. 9. 27. | BJ    .py  |                                                                  |                                                             |                                     |
+| 2023. 9. 29. | BJ    .py  |                                                                  |                                                             |                                     |
