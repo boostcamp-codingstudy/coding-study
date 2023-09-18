@@ -1,0 +1,1 @@
+a,b=map(int,input().split());print(2*b+1)if a>b else print(2*a-1)
