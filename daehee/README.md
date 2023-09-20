@@ -63,11 +63,11 @@
 | 2023. 9. 11. | BJ1812.py  | https://www.acmicpc.net/problem/1812                             | mathematics(?), bruteforcing                                |                                     |
 | 2023. 9. 13. | BJ14501.py | https://www.acmicpc.net/problem/14501                            | dynamic programming, bruteforcing                           |                                     |
 | 2023. 9. 13. | 12913.py   | https://school.programmers.co.kr/learn/courses/30/lessons/12913  |                                                             |                                     |
-| 2023. 9. 15. | BJ15686.py | https://www.acmicpc.net/problem/15686                            | bruteforcing, backtracking                                  | not solved                          |
-| 2023. 9. 18. | BJ    .py  |                                                                  |                                                             |                                     |
-| 2023. 9. 18. | BJ    .py  |                                                                  |                                                             |                                     |
-| 2023. 9. 20. | BJ    .py  |                                                                  |                                                             |                                     |
-| 2023. 9. 20. | BJ    .py  |                                                                  |                                                             |                                     |
+| 2023. 9. 15. | BJ15686.py | https://www.acmicpc.net/problem/15686                            | bruteforcing, backtracking                                  |                                     |
+| 2023. 9. 18. | BJ14888.py | https://www.acmicpc.net/problem/14888                            | bruteforcing, backtracking                                  |                                     |
+| 2023. 9. 18. | BJ14499.py | https://www.acmicpc.net/problem/14499                            | simulation                                                  | not solved                          |
+| 2023. 9. 20. | BJ1198.py  | https://www.acmicpc.net/problem/1198                             | bruteforcing, geometry                                      |                                     |
+| 2023. 9. 20. | BJ16931.py | https://www.acmicpc.net/problem/16931                            | geometry(3d)                                                | not solved                          |
 | 2023. 9. 22. | BJ    .py  |                                                                  |                                                             |                                     |
 | 2023. 9. 25. | BJ    .py  |                                                                  |                                                             |                                     |
 | 2023. 9. 25. | BJ    .py  |                                                                  |                                                             |                                     |
