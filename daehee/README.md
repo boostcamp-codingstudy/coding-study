@@ -75,3 +75,5 @@
 | 2023. 9. 27. | 77885.py   | https://school.programmers.co.kr/learn/courses/30/lessons/77885  |                                                             |                                     |
 | 2023. 10. 2. | BJ14889.py | https://www.acmicpc.net/problem/14889                            |                                                             |                                     |
 | 2023. 10. 2. | BJ2579.py  | https://www.acmicpc.net/problem/2579                             |                                                             |                                     |
+| 2023. 10. 4. | BJ1149.py  | https://www.acmicpc.net/problem/1149                             | dynamic programming                                         |                                     |
+| 2023. 10. 4. | BJ1743.py  | https://www.acmicpc.net/problem/1743                             | graph theory/traversal, BFS/DFS                             |                                     |
