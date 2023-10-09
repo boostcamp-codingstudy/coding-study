@@ -77,3 +77,6 @@
 | 2023. 10. 2. | BJ2579.py  | https://www.acmicpc.net/problem/2579                             |                                                             |                                     |
 | 2023. 10. 4. | BJ1149.py  | https://www.acmicpc.net/problem/1149                             | dynamic programming                                         |                                     |
 | 2023. 10. 4. | BJ1743.py  | https://www.acmicpc.net/problem/1743                             | graph theory/traversal, BFS/DFS                             |                                     |
+| 2023. 10. 6. | BJ14891.py | https://www.acmicpc.net/problem/14891                            |                                                             | not solved                          |
+| 2023. 10. 9. | BJ29733.py | https://www.acmicpc.net/problem/29733                            |                                                             |                                     |
+| 2023. 10. 9. | BJ26258.py | https://www.acmicpc.net/problem/26258                            | binary search                                               |                                     |
