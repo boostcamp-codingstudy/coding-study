@@ -70,7 +70,7 @@
 | 2023. 9. 20. | BJ16931.py | https://www.acmicpc.net/problem/16931                            | geometry(3d)                                                |                                     |
 | 2023. 9. 22. | BJ28284.py | https://www.acmicpc.net/problem/28284                            |                                                             | not solved                          |
 | 2023. 9. 25. | 154539.py  | https://school.programmers.co.kr/learn/courses/30/lessons/154539 |                                                             | not solved                          |
-| 2023. 9. 25. | 17686.py   | https://school.programmers.co.kr/learn/courses/30/lessons/17686  |                                                             | not solved                          |
+| 2023. 9. 25. | 17686.py   | https://school.programmers.co.kr/learn/courses/30/lessons/17686  |                                                             |                                     |
 | 2023. 9. 27. | 42746.py   | https://school.programmers.co.kr/learn/courses/30/lessons/42746  |                                                             |                                     |
 | 2023. 9. 27. | 77885.py   | https://school.programmers.co.kr/learn/courses/30/lessons/77885  |                                                             |                                     |
 | 2023. 10. 2. | BJ14889.py | https://www.acmicpc.net/problem/14889                            |                                                             |                                     |
