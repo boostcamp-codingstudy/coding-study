@@ -1,0 +1,12 @@
+def solution(numbers):
+    answer = [-1]*len(numbers)
+    stack=[]
+    for i in range(len(numbers)):
+        while stack and numbers[stack[-1]]<numbers[i]: # numbers[i]가 numbers[?]보다 크면 
+            answer[stack.pop()]=numbers[i] 
+            # answer[0]=numbers[1], answer[2]=numbers[3], answer[1]=numbers[3]
+            print(answer)
+        stack.append(i) # append index
+        # 1. stack=[0]
+        # 
+    return answer
