@@ -63,14 +63,20 @@
 | 2023. 9. 11. | BJ1812.py  | https://www.acmicpc.net/problem/1812                             | mathematics(?), bruteforcing                                |                                     |
 | 2023. 9. 13. | BJ14501.py | https://www.acmicpc.net/problem/14501                            | dynamic programming, bruteforcing                           |                                     |
 | 2023. 9. 13. | 12913.py   | https://school.programmers.co.kr/learn/courses/30/lessons/12913  |                                                             |                                     |
-| 2023. 9. 15. | BJ15686.py | https://www.acmicpc.net/problem/15686                            | bruteforcing, backtracking                                  | not solved                          |
-| 2023. 9. 18. | BJ    .py  |                                                                  |                                                             |                                     |
-| 2023. 9. 18. | BJ    .py  |                                                                  |                                                             |                                     |
-| 2023. 9. 20. | BJ    .py  |                                                                  |                                                             |                                     |
-| 2023. 9. 20. | BJ    .py  |                                                                  |                                                             |                                     |
-| 2023. 9. 22. | BJ    .py  |                                                                  |                                                             |                                     |
-| 2023. 9. 25. | BJ    .py  |                                                                  |                                                             |                                     |
-| 2023. 9. 25. | BJ    .py  |                                                                  |                                                             |                                     |
-| 2023. 9. 27. | BJ    .py  |                                                                  |                                                             |                                     |
-| 2023. 9. 27. | BJ    .py  |                                                                  |                                                             |                                     |
-| 2023. 9. 29. | BJ    .py  |                                                                  |                                                             |                                     |
+| 2023. 9. 15. | BJ15686.py | https://www.acmicpc.net/problem/15686                            | bruteforcing, backtracking                                  |                                     |
+| 2023. 9. 18. | BJ14888.py | https://www.acmicpc.net/problem/14888                            | bruteforcing, backtracking                                  |                                     |
+| 2023. 9. 18. | BJ14499.py | https://www.acmicpc.net/problem/14499                            | simulation                                                  | not solved                          |
+| 2023. 9. 20. | BJ1198.py  | https://www.acmicpc.net/problem/1198                             | bruteforcing, geometry                                      |                                     |
+| 2023. 9. 20. | BJ16931.py | https://www.acmicpc.net/problem/16931                            | geometry(3d)                                                |                                     |
+| 2023. 9. 22. | BJ28284.py | https://www.acmicpc.net/problem/28284                            |                                                             | not solved                          |
+| 2023. 9. 25. | 154539.py  | https://school.programmers.co.kr/learn/courses/30/lessons/154539 |                                                             | not solved                          |
+| 2023. 9. 25. | 17686.py   | https://school.programmers.co.kr/learn/courses/30/lessons/17686  |                                                             |                                     |
+| 2023. 9. 27. | 42746.py   | https://school.programmers.co.kr/learn/courses/30/lessons/42746  |                                                             |                                     |
+| 2023. 9. 27. | 77885.py   | https://school.programmers.co.kr/learn/courses/30/lessons/77885  |                                                             |                                     |
+| 2023. 10. 2. | BJ14889.py | https://www.acmicpc.net/problem/14889                            |                                                             |                                     |
+| 2023. 10. 2. | BJ2579.py  | https://www.acmicpc.net/problem/2579                             |                                                             |                                     |
+| 2023. 10. 4. | BJ1149.py  | https://www.acmicpc.net/problem/1149                             | dynamic programming                                         |                                     |
+| 2023. 10. 4. | BJ1743.py  | https://www.acmicpc.net/problem/1743                             | graph theory/traversal, BFS/DFS                             |                                     |
+| 2023. 10. 6. | BJ14891.py | https://www.acmicpc.net/problem/14891                            |                                                             | not solved                          |
+| 2023. 10. 9. | BJ29733.py | https://www.acmicpc.net/problem/29733                            |                                                             |                                     |
+| 2023. 10. 9. | BJ26258.py | https://www.acmicpc.net/problem/26258                            | binary search                                               |                                     |

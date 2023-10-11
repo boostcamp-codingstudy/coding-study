@@ -1,7 +1,7 @@
 # standard solution
 A=open(0).read().split()
-n=A[0];A=A[1:];c=0
-for a in A:
+n=A[0];c=0
+for a in A[1:]:
     f=1;D=[0]*26
     for i in range(len(a)):
         o=ord(a[i])-ord('a')
