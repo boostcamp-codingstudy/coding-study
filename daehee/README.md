@@ -80,3 +80,5 @@
 | 2023. 10. 6. | BJ14891.py | https://www.acmicpc.net/problem/14891                            |                                                             | not solved                          |
 | 2023. 10. 9. | BJ29733.py | https://www.acmicpc.net/problem/29733                            |                                                             |                                     |
 | 2023. 10. 9. | BJ26258.py | https://www.acmicpc.net/problem/26258                            | binary search                                               |                                     |
+| 2023. 10. 11.| 178870.py  | https://school.programmers.co.kr/learn/courses/30/lessons/178870 | two-pointer                                                 |                                     |
+| 2023. 10. 11.| 154538.py  | https://school.programmers.co.kr/learn/courses/30/lessons/154538 | queue                                                       |                                     |
