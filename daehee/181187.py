@@ -8,7 +8,7 @@
 #             if s<=t<=l:c+=1
 #     return c
 
-# standard solution 2 using math
+# standard solution 2 using sqrt, ceil, floor from math
 from math import sqrt, ceil, floor
 def solution(a,b):
     s,l,c=a*a,b*b,0
@@ -19,7 +19,7 @@ def solution(a,b):
         c+=(j-i+1)
     return 4*c
 
-# standard solution 3
+# standard solution 3 using only sqrt from math
 # from math import sqrt
 # def solution(a,b):
 #     s,l,c=a*a,b*b,0
