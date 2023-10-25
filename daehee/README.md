@@ -85,3 +85,6 @@
 | 2023. 10. 13.| BJ18428.py | https://www.acmicpc.net/problem/18428                            | bruteforcing, backtracking                                  | not solved                          |
 | 2023. 10. 16.| 12914.py   | https://school.programmers.co.kr/learn/courses/30/lessons/12914  |                                                             |                                     |
 | 2023. 10. 16.| 12938.py   | https://school.programmers.co.kr/learn/courses/30/lessons/12938  |                                                             |                                     |
+| 2023. 10. 18.| 169199.py  | https://school.programmers.co.kr/learn/courses/30/lessons/169199 |                                                             | not solved                          |
+| 2023. 10. 18.| 181187.py  | https://school.programmers.co.kr/learn/courses/30/lessons/181187 |                                                             |                                     |
+| 2023. 10. 20.| BJ30160.py | https://www.acmicpc.net/problem/30160                            | mathematics(prefix sum)                                     |                                     |
