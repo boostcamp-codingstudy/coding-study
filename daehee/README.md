@@ -88,3 +88,5 @@
 | 2023. 10. 18.| 169199.py  | https://school.programmers.co.kr/learn/courses/30/lessons/169199 |                                                             | not solved                          |
 | 2023. 10. 18.| 181187.py  | https://school.programmers.co.kr/learn/courses/30/lessons/181187 |                                                             |                                     |
 | 2023. 10. 20.| BJ30160.py | https://www.acmicpc.net/problem/30160                            | mathematics(prefix sum)                                     |                                     |
+| 2023. 10. 25.| BJ11501.py | https://www.acmicpc.net/problem/11501                            | greedy                                                      | not solved                          |
+| 2023. 10. 25.| BJ1388.py  | https://www.acmicpc.net/problem/1388                             | graph theory/traversal, DFS                                 |                                     |
