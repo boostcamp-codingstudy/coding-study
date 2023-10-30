@@ -1,0 +1,27 @@
+#분할정복
+zero=0
+one=0
+def divconquer(n,graph):
+    global zero
+    global one
+    num=0
+    for i in range(n):
+        num+=sum(graph[i])
+    if num==0:
+        zero+=1
+    elif num==n**2:
+        one+=1
+    else:
+        divide=[graph[i][:n//2] for i in range(n//2)] #1
+        divconquer(n//2,divide)
+        divide=[graph[i][:n//2] for i in range(n//2,n)] #2
+        divconquer(n//2,divide)
+        divide=[graph[i][n//2:] for i in range(n//2)] #3
+        divconquer(n//2,divide)
+        divide=[graph[i][n//2:] for i in range(n//2,n)] #4
+        divconquer(n//2,divide)
+       
+def solution(arr):
+    divconquer(len(arr),arr)
+    return [zero,one]
+    
